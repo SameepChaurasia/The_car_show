@@ -9,6 +9,13 @@ https://github.com/SameepChaurasia/The_car_show/assets/112929141/e5d5d46a-3770-4
 ![Screenshot (12)](https://github.com/SameepChaurasia/The_car_show/assets/112929141/c938d290-8748-420b-915b-0930b63af08e)
 ![Screenshot (5)](https://github.com/SameepChaurasia/The_car_show/assets/112929141/8ac464e2-a832-47f7-86c2-93a1e00b9f63)
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+This is a car renting app which help u find your car according to your choice like in type Gas/fuel/electric or of which year model you want and can select car brand and its model according to your choice and can view all the details like mileage and model type like is it SUV/Sedan/Coup etc 
+
+Techstacks used -> Html/Css , Tailwind CSS, React Js,Next Js, NodeJs, javascript,Typescript , API(Rapid API) for fetching car data 
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
